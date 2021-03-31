@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexxYrt
-- 👀 I’m interested in . Веб  дизанй 
+- 👀 I’m inte. Веб  дизайн
 - 🌱 I’m currently learning в экономическом факультете специальность Бизнес-информатика
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 AlexxYrt/AlexxYrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
